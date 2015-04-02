@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">IoC</string>
+    <string name="say_IoC">Internet of car</string>
+    <string name="stop">STOP</string>
+    <string name="footer">Tap to Continue</string>
+    
+    <string name="info">Hello</string>
+
+
+
+    <string name="connectmyphone">tap to connect</string>
+    
+
+    
+</resources>
+  
